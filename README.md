@@ -19,5 +19,3 @@
 ## apricity
     纸短情长
     愿君安好
-
-![image](https://github.com/Aplicity/say_love2lover/blob/master/desk.png)
